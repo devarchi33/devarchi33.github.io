@@ -93,6 +93,7 @@ class Header extends React.Component {
               onClick={() => {
                 this.phoneClick();
               }}
+              style={{backgroundColor: '#001529'}}
             >
               <em />
               <em />
