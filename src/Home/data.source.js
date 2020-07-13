@@ -4,7 +4,7 @@ export const Nav00DataSource = {
   page: { className: 'home-page' },
   logo: {
     className: 'header0-logo',
-    children: 'https://os.alipayobjects.com/rmsportal/mlcYmsRilwraoAe.svg',
+    children: 'https://drive.leessony.com/fineway_landing/fineway_logo.jpeg',
   },
   Menu: {
     className: 'header0-menu',
@@ -14,7 +14,7 @@ export const Nav00DataSource = {
         className: 'header0-item',
         children: {
           href: '#',
-          children: [{ children: '导航一', name: 'text' }],
+          children: [{ children: 'HOME', name: 'text' }],
         },
         subItem: [
           {
@@ -74,7 +74,7 @@ export const Nav00DataSource = {
         className: 'header0-item',
         children: {
           href: '#',
-          children: [{ children: '导航二', name: 'text' }],
+          children: [{ children: 'ABOUT US', name: 'text' }],
         },
       },
       {
@@ -82,7 +82,7 @@ export const Nav00DataSource = {
         className: 'header0-item',
         children: {
           href: '#',
-          children: [{ children: '导航三', name: 'text' }],
+          children: [{ children: 'OUR SERVICE', name: 'text' }],
         },
       },
       {
@@ -90,7 +90,7 @@ export const Nav00DataSource = {
         className: 'header0-item',
         children: {
           href: '#',
-          children: [{ children: '导航四', name: 'text' }],
+          children: [{ children: 'CONTACT US', name: 'text' }],
         },
       },
     ],
