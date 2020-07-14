@@ -1106,7 +1106,7 @@ export const Footer00DataSource = {
     children: (
       <span>
         <span>
-          ©2020&nbsp;<span style={{fontWeight:"bold"}}>FINE WAY</span>&nbsp;All
+          ©2020&nbsp;<span style={{fontWeight:"bold"}}><span style={{color: '#62d9fa'}}>FINE</span>WAY</span>&nbsp;All
           Rights Reserved
         </span>
       </span>
